@@ -165,7 +165,7 @@ const SITE_DATA = {
         "AI-assisted content analysis"
       ],
       stack: ["Python", "NLP", "PDF Processing", "Machine Learning", "Claude-assisted"],
-      githubOverride: ""
+      githubOverride: "https://github.com/Minhaj2003/fact-check-agent"
     },
     {
       name: "Football World Cup Score Prediction",
@@ -177,7 +177,7 @@ const SITE_DATA = {
         "Performance trend analysis"
       ],
       stack: ["Python", "Logistic Regression", "Pandas", "NumPy", "Scikit-learn"],
-      githubOverride: ""
+      githubOverride: "https://github.com/Minhaj2003/world-cup-2026-predictor"
     },
     {
       name: "Linear Regression Learning Project",
@@ -189,7 +189,7 @@ const SITE_DATA = {
         "Model training and evaluation"
       ],
       stack: ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
-      githubOverride: ""
+      githubOverride: "https://github.com/Minhaj2003/linear-regression-project"
     },
     {
       name: "DDR AI System",
@@ -201,7 +201,7 @@ const SITE_DATA = {
         "Image extraction and rapid retrieval from lengthy reports"
       ],
       stack: ["Python", "OCR", "PDF Processing", "NLP", "Data Extraction", "Claude-assisted"],
-      githubOverride: ""
+      githubOverride: "https://github.com/Minhaj2003/ddr-ai-system"
     }
   ],
 
