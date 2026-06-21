@@ -31,7 +31,7 @@ const SITE_DATA = {
   // e.g. "Open to opportunities", "Not currently looking", "Open to internships".
   status: "Open to opportunities",
 
-  focus: "AI & Data Analysis",
+  focus: "AI & Data Science",
 
   tagline: "Final-year Computer Science student building AI-assisted tools for document analysis, fact verification, and predictive modelling — alongside 10+ months of professional research experience.",
 
