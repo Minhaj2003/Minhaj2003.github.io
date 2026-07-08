@@ -33,7 +33,7 @@ const SITE_DATA = {
 
   focus: "AI & Data Science",
 
-  tagline: "Final-year Computer Science student building AI-assisted tools for document analysis, fact verification, and predictive modelling — alongside 10+ months of professional research experience.",
+  tagline: "Computer Science graduate (B.Tech, MDU 2026) building AI-assisted tools for document analysis, fact verification, and predictive modelling — currently working in research and completing a virtual AI internship.",
 
   // Used only for the "Send me an email" button. This is never printed
   // as visible text anywhere on the page.
@@ -51,14 +51,14 @@ const SITE_DATA = {
   // ---------------- ABOUT ----------------
   // Each line is one paragraph. Add or remove lines freely.
   about: [
-    "I'm Minhajuddin Ayubin, a final-year Computer Science student at Maharshi Dayanand University, currently working as a Secondary Research Associate at Mindforce Research, where I handle data collection, analysis, and report preparation in the IT sector.",
+    "I'm Minhajuddin Ayubin, a Computer Science graduate (B.Tech, Maharshi Dayanand University, 2026) working as a Secondary Research Associate at Mindforce Research, where I handle data collection, analysis, and report preparation in the IT sector — alongside a virtual AI internship focused on applied machine learning.",
     "Outside of work, I build small AI-assisted systems — document verifiers, damage-detection pipelines, and prediction models — usually in Python, often pairing traditional ML workflows with AI coding assistants like Claude to move from idea to working prototype faster.",
     "I've cleared technical interviews for a Software Engineer role at Chetu and a scholarship selection process at QuickSpider — details on both are in the Achievements section below, including why I didn't take either up."
   ],
 
   aboutFacts: [
     { label: "Current role", value: "Secondary Research Associate, Mindforce Research" },
-    { label: "Education",    value: "B.Tech Computer Science, MDU (2022–2026)" },
+    { label: "Education",    value: "B.Tech Computer Science, MDU — Graduated July 2026" },
     { label: "Core stack",   value: "Python · SQL · scikit-learn · NLP · OCR" },
     { label: "Based in",     value: "India" }
   ],
@@ -82,12 +82,20 @@ const SITE_DATA = {
       tagText: "Current"
     },
     {
+      title: "Virtual AI Intern",
+      org: "Virtual Internship (AI/ML)",
+      period: "2026 – Present",
+      description: "Completing a structured virtual internship focused on applied AI and machine learning — data preprocessing, model development, and result interpretation.",
+      tagColor: "active",
+      tagText: "Current"
+    },
+    {
       title: "B.Tech, Computer Science",
       org: "Maharshi Dayanand University",
       period: "2022 – 2026",
-      description: "Final-year student. Final examinations completed; results awaited.",
-      tagColor: "pending",
-      tagText: "Awaiting result"
+      description: "Graduated July 2026.",
+      tagColor: "done",
+      tagText: "Graduated"
     },
     {
       title: "Senior Secondary (Class 12)",
